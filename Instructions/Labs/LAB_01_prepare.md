@@ -89,7 +89,7 @@ Nesta tarefa, você implantará e configurará um Controlador de domínio do Win
         1.  Servidor DNS preferencial: 1.1.1.1
         2.  Servidor do DNS alternativo: 8.8.8.8
 27. Clique em **Fechar**. Quando questionado sobre se deseja permitir que o computador seja detectável, selecione **Sim**.
-28. No menu Iniciar, abra o Gerenciador de servidores, selecione Servidor Local e, em seguida, selecione o Nome do computador. Isso abre a caixa de diálogo Propriedades do sistema. Na p[agina Nome do computador da caixa de diálogo Propriedades do sistema, selecione **Alterar**.
+28. No menu Iniciar, abra o Gerenciador de Servidores, selecione Servidor Local e, em seguida, selecione o Nome do Computador. Isso abre a caixa de diálogo Propriedades do sistema. Na p[agina Nome do computador da caixa de diálogo Propriedades do sistema, selecione **Alterar**.
 29. Na caixa de diálogo Nome do computador/Alterações de domínio, em Nome do computador, digite **TAILWIND-DC1** e clique em **OK**.<br>
 30. Na caixa de diálogo informando que você precisa reiniciar o computador, clique em **OK**.
 31. Na caixa de diálogo Propriedades do sistema, clique em **Fechar**.
